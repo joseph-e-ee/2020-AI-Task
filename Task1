@@ -1,0 +1,61 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled0.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyOgEvDsxJ0xb68W96Zc9xJY",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/joseph-e-ee/2020-AI-Task/blob/master/Task1\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "HOPiAO-LP1Up",
+        "colab_type": "text"
+      },
+      "source": [
+        "1.음성 인식 AI 스피커로 인하여 독거노인들의 행복감등 많은 삶의 편리함에 도움음 줌.\n",
+        "https://www.mk.co.kr/news/business/view/2020/05/517943/(음성 AI 스피커)\n",
+        "\n",
+        "2.언어를 이용한 대표적인 AI로는 번역을 하는 제품들이 있는데 들리는 언어로 바로 해석하여 들려주는 이어폰등 많은 제품들이 개발되고 있다.\n",
+        "https://biz.insight.co.kr/news/251048(번역 이어폰)\n",
+        "\n",
+        "3.이미지를 이용한 AI로는 컴퓨터가 이미지 센서를 통하여 물체가 어디있는디 좌표를 주적하고 또 그물체가 무엇인지를 스스로 파악하고 생각함.\n",
+        "https://www.etnews.com/20200512000207(이미지 AI)\n",
+        "\n",
+        "4.자율주행 자동차가 대표적인 AI라고 말할수 있는데 현재 차에 적용되고 있는 여러가지 기술등 차가 멈추고 차선을 이탈하지 않고 주행을 하는 여러가지 작업들이 이루어지고 있는것이 많은 기술력이 들어가 있다고 할 수 있다 인공지능형태로 마찬가지이다.\n",
+        "http://dongascience.donga.com/news.php?idx=36802(자율주행자동차)"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "45OQZ-G-P1pA",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        ""
+      ],
+      "execution_count": 0,
+      "outputs": []
+    }
+  ]
+}
